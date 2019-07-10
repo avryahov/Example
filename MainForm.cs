@@ -29,5 +29,10 @@ namespace Example
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void Button1Click(object sender, EventArgs e)
+		{
+			textBox2.Paste(textBox1.Text);
+		}
 	}
 }

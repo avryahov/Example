@@ -3,3 +3,5 @@ C:\workspace\repositories\git\Example\bin\Debug\Example.pdb
 C:\workspace\repositories\git\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
 C:\workspace\repositories\git\Example\obj\Debug\Example.exe
 C:\workspace\repositories\git\Example\obj\Debug\Example.pdb
+C:\workspace\repositories\git\Example\obj\Debug\Example.MainForm.resources
+C:\workspace\repositories\git\Example\obj\Debug\Example.csproj.GenerateResource.Cache
