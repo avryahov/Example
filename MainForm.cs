@@ -32,7 +32,7 @@ namespace Example
 		
 		void Button1Click(object sender, EventArgs e)
 		{
-			textBox2.Paste(textBox1.Text);
+			textBox2.Text = "Hello!";
 		}
 	}
 }
